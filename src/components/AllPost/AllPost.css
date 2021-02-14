@@ -1,0 +1,11 @@
+.posts{
+    background-color: rgb(14, 235, 132);
+    margin:10px;
+    padding: 20px;
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgb(142, 243, 155);
+    font-size: 20px;
+    min-width: 350px;
+      
+}

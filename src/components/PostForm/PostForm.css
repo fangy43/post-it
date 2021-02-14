@@ -1,0 +1,30 @@
+.PostForm-Container{
+    background-color: crimson;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px palevioletred;
+    font-size: 20px;
+    min-width: 300px;
+    margin: 10px;
+    height: 400px;
+    
+    
+}
+.title-form{
+    width: 100%;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+.text-form{
+    width: 100%;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+.form-btn{
+    font-size: 25px;
+    font-family: 'Mali', cursive;
+    border-radius: 10px;
+    background-color: white
+}
